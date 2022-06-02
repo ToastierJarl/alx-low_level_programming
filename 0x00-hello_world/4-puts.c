@@ -5,7 +5,7 @@
  *
  * description:using the main function
  * this prints "Programming is like building a multilingual puzzle"
- * return: 0
+ * return 0
  */
 int main(void)
 {
