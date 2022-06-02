@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main: print the strings in the puts function
+ * Main : print the strings in the puts function
  *
- * description:using the main function
+ * Description : using the main function
  * this prints "Programming is like building a multilingual puzzle"
  * return 0
  */
