@@ -1,10 +1,8 @@
 #include "main.h"
 /**
  * main - Print the word "_putchar"
- *
- * Return: Always 0 (Success)
+ * Return: Always 0 (success)
  */
-
 int main(void)
 {
 	int i;
@@ -15,6 +13,5 @@ int main(void)
 		_putchar(p[i]);
 	}
 	_putchar('\n');
-	
 	return (0);
 }
